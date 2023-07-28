@@ -1,0 +1,217 @@
+{
+    "count": 35,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "004ea37f-ca9d-4959-b26e-1816f8bb934f",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "06a91217-3f9b-4eb1-a068-ccaf50fee821",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "087d0be0-24e5-417e-b071-902d1f2c9f7e",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "0a1c3045-2dab-42ec-9b51-6e775f84519f",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "0afd9524-f013-4263-a7c8-f0bf4cefa48a",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "19996cf4-df9d-47d3-b1ae-3bdf9be06ec9",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "1cbd2e31-3559-440c-8dc8-cfbf6cec8355",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "2eaff994-041c-4e12-9544-d4fd2969f758",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "2eb38c72-6cef-4942-9492-38c8fe4035c5",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "3251fd3b-1a77-49cd-bcbf-8a07367b0a7c",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "5d296069-54a5-4cc4-b6c1-eaf381f3e8f0",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "603d7a35-b005-46e5-9c72-a05de31d2520",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "64349f5c-e70b-4a57-a898-a7e2ec402f46",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "6458369e-9b7c-4b23-985d-9aeb97af9d84",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "7258b354-b004-4c5f-961d-c81deba249c5",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "7341421f-7a38-4455-b753-57486a5592ba",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "83a20a30-3fe4-44d7-85e8-972bb100cbc0",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "84b1710e-8938-4bb7-984e-239f0bb792c8",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "91952bd3-2a50-4a5c-974d-1cb6f60c1869",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "961baf56-4886-4552-93d2-467c397eb5de",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "9918ca70-e126-4878-99b5-b29f39607379",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "9c1d6cac-4ca1-42e4-acbf-b1af8ec1c55a",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "a7a00761-2f12-4fd3-8b99-669498462dbb",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "acfd9cd7-6434-46b1-8b61-636e6f558623",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "b2bee715-9a48-4e65-99f8-fccbc4253bd2",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "bc692d41-5632-40e3-a236-1495d8567e23",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "be6ce09b-32c4-4e58-9964-67c8c72ffc4c",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c1e5549b-307c-465a-aac6-32d33b7f40d5",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "c28deb4d-247a-4f55-ac35-c629f3e682f2",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "d1205366-16b9-4b25-8030-941c02efe972",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "d26aba93-b2cc-48b2-9174-b206256a5045",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "dcd14c28-3af1-4f18-a7ca-d8c0b393cd97",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e0fe1660-dbef-4172-879f-640d5d8f7caf",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "e4053a08-bce8-41d0-bc0d-521d9bbd5216",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        },
+        {
+            "id": "ff82108d-2b43-4671-addb-91e3bcd80433",
+            "collectionId": "Lithuanian",
+            "type": "Sentences",
+            "status": "private"
+        }
+    ]
+}
